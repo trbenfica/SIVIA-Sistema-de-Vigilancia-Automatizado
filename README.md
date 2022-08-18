@@ -7,7 +7,7 @@ Este software foi desenvolvido afim de ser uma solução de baixo custo para o m
 constatar que há indivíduos nas áreas vigiadas e nos horários de restrição, um alarme é disparado e um SMS é enviado (através da API Twilio). O mesmo foi pensado para atender ambientes domiciliares
 e pequenas empresas.
 
-Obs: este software foi desenvolvido como projeto da disciplina de Engenharia de Software, e mesmo mostrando-se funcional, constituí apenas um protótipo.
+Obs: este software foi desenvolvido como projeto da disciplina de Engenharia de Software, mostrando-se parcialmente funcional, constituindo apenas um protótipo.
 
 ## Screenshots
 
